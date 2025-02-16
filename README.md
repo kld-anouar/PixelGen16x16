@@ -21,3 +21,13 @@
 
 If you like this work, please consider giving a ⭐ to our repository.  
 Special thanks to the [Diffusion Models Class by Hugging Face](https://github.com/huggingface/diffusion-models-class) for their resources and inspiration.
+
+# Dataset License
+
+The dataset used in this project is licensed under the Apache 2.0 License. Proper credit is given to the original dataset creators, and the dataset follows the terms outlined in the license.
+
+# License
+
+This project is licensed under the MIT License.
+
+Additionally, all content in this repository is available under the Creative Commons Attribution 4.0 (CC BY 4.0) License. This means you are free to share and adapt the material as long as appropriate credit is given.
