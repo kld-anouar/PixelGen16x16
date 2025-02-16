@@ -18,3 +18,6 @@
 ### Run on Kaggle
 
 [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/kanouar/pixelgen16x16-diffusers)
+
+If you like this work, please consider giving a ⭐ to our repository.  
+Special thanks to the [Diffusion Models Class by Hugging Face](https://github.com/huggingface/diffusion-models-class) for their resources and inspiration.
